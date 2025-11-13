@@ -29,18 +29,10 @@ Here are some ideas to get you started:
 
   </div>
 
-![snake animation](https://github.com/<julianoandriolette>/<julianoandriolette>/blob/output/github-contribution-grid-snake2.svg)
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 <div align="center">
-  <img src="https://icons.iconarchive.com/icons/treetog/junior/16/computer-lock-icon.png" width="16" height="16">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg2ZGhkbm4yaGQ0NWIzanozdnlwbWJoeTB2MWVnZnM2aXJnNmhoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="200" height="200">
 
-  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
-  <p>Get dynamically generated GitHub stats on your READMEs!</p>
-</div>
+  <h1 style="font-size: 28px; margin: 10px 0;">Programando</h1>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
