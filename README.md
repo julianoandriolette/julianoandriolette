@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 </a>
 
 
-[![https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss](powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team\&utm_campaign=oss)
+[![https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss](powered-by-vercel.svg)](https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93juliano-andriolette%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93-3719a2386/)
 
-Contributions are welcome! <3
 
 Criado em JavaScript.
