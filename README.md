@@ -16,6 +16,20 @@ Here are some ideas to get you started:
 - 💬 Contate-me ...
 <!--
 -->
+  <div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="W3Schools.com" width="70" height="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="W3Schools.com" width="70" height="70">
+<img src="https://thumbs.dreamstime.com/b/javascript-icon-logo-javascript-often-abbreviated-as-js-programming-language-conforms-to-ecmascript-specification-204759326.jpg" width="70" height="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="W3Schools.com" width="70" height="70">
+<img src="https://images.icon-icons.com/2108/PNG/512/php_icon_130857.png" alt="W3Schools.com" width="70" height="70">
+<img src="https://thumbs.dreamstime.com/b/logotipo-python-em-linguagem-de-computador-com-duas-cobras-intersetadas-imagem-descreve-o-da-p%C3%ADton-estilizadas-que-se-cruzam-170750660.jpg" alt="W3Schools.com" width="70" height="70">
+<img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" width="70" height="70">
+
+  </div>
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 <div align="center">
   <img src="https://icons.iconarchive.com/icons/treetog/junior/16/computer-lock-icon.png" width="16" height="16">
