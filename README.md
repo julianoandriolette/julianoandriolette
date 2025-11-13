@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlnd3VlbnM1Y3J4b2QwdTVvMHYzdWVraTQ5cnFuMThvNGR0d2puYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BjscQHSz4tzVYFkDoy/giphy.gif" width="50" height="50">
 
 
-[![Linkedin](powered-by-vercel.svg)](https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93juliano-andriolette%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93-3719a2386/)
+[![Linkedin](powered-by-vercel.svg)](https://github.com/julianoandriolette/)
 
 
 Criado em JavaScript.
