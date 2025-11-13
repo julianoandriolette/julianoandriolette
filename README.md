@@ -2,6 +2,9 @@ Prazer e Bem Vindo (a)👋
 
 Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualmente curso na Faculdade UNIESSA. Sempre gostei e me dei bem com tecnologia. Me encontrei no mundo da programação e desenvolvimento de software, buscando sempre melhorar meus conhecimentos para me tornar um profissional melhor.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+
 **julianoandriolette/julianoandriolette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -49,19 +52,6 @@ Here are some ideas to get you started:
   <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
     <img src="./powered-by-vercel.svg"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="#all-demos">View Demo</a>
-  ·
-  <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a>
-  ·
-  <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
-  ·
-  <a href="https://github.com/anuraghazra/github-readme-stats/discussions/1770">FAQ</a>
-  ·
-  <a href="https://github.com/anuraghazra/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
-</p>
 
 
 <p align="center">Love the project? Please consider <a href="www.linkedin.com/in/👨🏼‍🎓juliano-andriolette👨🏼‍🎓-3719a2386">donating</a> to help it improve!</p>
