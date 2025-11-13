@@ -1,5 +1,6 @@
-## Hi there 👋
+Prazer e Bem Vindo (a)👋
 
+Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualmente curso na Faculdade UNIESSA. Sempre gostei e me dei bem com tecnologia. Me encontrei no mundo da programação e desenvolvimento de software, buscando sempre melhorar meus conhecimentos para me tornar um profissional melhor.
 
 **julianoandriolette/julianoandriolette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,7 +64,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!</p>
+<p align="center">Love the project? Please consider <a href="www.linkedin.com/in/👨🏼‍🎓juliano-andriolette👨🏼‍🎓-3719a2386">donating</a> to help it improve!</p>
 
 <details>
 <summary>Table of contents (Click to show)</summary>
