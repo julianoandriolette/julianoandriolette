@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **julianoandriolette/julianoandriolette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,17 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
 -->
 
 <div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <img src="https://icons.iconarchive.com/icons/treetog/junior/16/computer-lock-icon.png" width="16" height="16">
+
   <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
   <p>Get dynamically generated GitHub stats on your READMEs!</p>
 </div>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <img src="https://icons.iconarchive.com/icons/treetog/junior/16/computer-lock-icon.png" width="16" height="16">
+
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
