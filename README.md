@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlnd3VlbnM1Y3J4b2QwdTVvMHYzdWVraTQ5cnFuMThvNGR0d2puYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BjscQHSz4tzVYFkDoy/giphy.gif" width="50" height="50">
 
 
-[![Linkedin](powered-by-vercel.svg)](https://github.com/julianoandriolette/)
+[![Linkedin](powered-by-vercel.svg)](www.linkedin.com/in/👨🏼‍🎓juliano-andriolette👨🏼‍🎓-3719a2386)
 
 
 Criado em JavaScript.
