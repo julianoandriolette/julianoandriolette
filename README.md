@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julianoandriolette/julianoandriolette/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [julianoandriolette/snk](https://github.com/julianoandriolette/snk)_
+_generated with [julianoandriolette/julianoandriolette](https://github.com/julianoandriolette/julianoandriolette)_
 
 
 
