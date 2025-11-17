@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 6 hours
+    - cron: "* */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: julianoandriolette/julianoandriolette
+      - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: julianoandriolette #seu username
+          github_user_name: julianoandriolette
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
