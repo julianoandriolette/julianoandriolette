@@ -15,13 +15,15 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
 - 💬 Contate-me ...
 <!--
 -->
+<div>
+![snake gif](https://github.com/julianoandriolette/julianoandriolette/blob/output/github-contribution-grid-snake.svg)  
+</div>
 
-![snake gif](https://github.com/julianoandriolette/julianoandriolette/blob/output/github-contribution-grid-snake.svg)
 
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Carregando+Programção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Carregando+Programção!;" />
 </h1>
 
   <div align="center">
