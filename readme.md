@@ -15,9 +15,7 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
 - 💬 Contate-me ...
 <!--
 -->
-<div>
-![snake gif](https://github.com/julianoandriolette/julianoandriolette/blob/output/github-contribution-grid-snake.svg)  
-</div>
+![Snake animation](https://github.com/julianoandriolette/julianoandriolette/blob/output/github-contribution-grid-snake.svg)
 
 
 
