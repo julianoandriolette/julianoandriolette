@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - 💬 Contate-me ...
 <!--
 -->
+![snake gif](https://github.com/julianoandriolette/julianoandriolette/blob/output/github-contribution-grid-snake.svg)
+
+![readme](https://github-readme-stats.vercel.app/api?username=julianoandriolette&repo=julianoandriolette&theme=react)]
+(https://github.com/julianoandriolette/julianoandriolette)
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
+
   <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="W3Schools.com" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="W3Schools.com" width="50" height="50">
