@@ -1,7 +1,7 @@
-
+<div align="center">
 <p>Prazer e Bem Vindo (a)👋</p>
 
-Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualmente curso Sistemas de Informação na Faculdade UNIESSA. Sempre gostei de tecnologia. Hoje me encontrei no mundo da programação e desenvolvimento de web site e software, buscando sempre melhorar meus conhecimentos para me tornar um profissional na área.
+Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualmente curso Sistemas de Informação na Faculdade UNIESSA. Sempre gostei de tecnologia. Hoje me encontrei no mundo da programação e desenvolvimento de web site e software, buscando sempre melhorar meus conhecimentos para me tornar um profissional na área.</div>
 <!--
 **julianoandriolette/julianoandriolette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -11,7 +11,7 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
 - 🔭 Atualmente trabalhando como desenvolvedor front-end | currently work as a front-end developer
 - 🌱 Atualmente estou me dedicando a aprender front-end ...
 - ⚡ Estudante Sistema da Informação
-- 💬 E-mail pessoal: saejufinanceiro@gmail.com | Personal email: saejufinanceiro@gmail.com
+
 </div>
   <!--
 -->
@@ -30,13 +30,8 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/julianoandriolette/julianoandriolette/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
-
-
+  
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&color=FF0000&lines=Carregando+Programção!;" />
