@@ -44,7 +44,7 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
 </h1>
 
   <div align="center">
-<a href="https://github.com/julianoandriolette" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="W3Schools.com" width="50" height="50">
+<a href="[https://github.com/julianoandriolette](https://developer.mozilla.org/pt-BR/docs/Web/HTML)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="W3Schools.com" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="W3Schools.com" width="50" height="50">
 <img src="https://thumbs.dreamstime.com/b/javascript-icon-logo-javascript-often-abbreviated-as-js-programming-language-conforms-to-ecmascript-specification-204759326.jpg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="W3Schools.com" width="50" height="50">
