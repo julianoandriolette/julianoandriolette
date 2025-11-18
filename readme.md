@@ -23,7 +23,7 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
   <a href="https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93juliano-andriolette%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93-3719a2386/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://github.com/julianoandriolette" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
