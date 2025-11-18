@@ -40,7 +40,7 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
   
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&color=FF0000&lines=Carregando+Programção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&left=70&duration=3000&color=228B22&lines=Carregando+Programção!;" />
 </h1>
 
   <div align="center">
