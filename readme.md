@@ -36,7 +36,6 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
   
 
