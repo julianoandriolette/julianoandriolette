@@ -7,20 +7,32 @@ Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualm
 -->
 
 <!--Here are some ideas to get you started:-->
-
+<div align="center"> 
 - 🔭 Atualmente trabalhando como desenvolvedor front-end | currently work as a front-end developer
 - 🌱 Atualmente estou me dedicando a aprender front-end ...
 - ⚡ Estudante Sistema da Informação
 - 💬 E-mail pessoal: saejufinanceiro@gmail.com | Personal email: saejufinanceiro@gmail.com
-<!--
+</div>
+  <!--
 -->
+
+<div align="center"> 
+  <a href="saejufinanceiro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/👨🏼‍🎓juliano-andriolette👨🏼‍🎓-3719a2386" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 ![Snake animation](https://github.com/julianoandriolette/julianoandriolette/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Carregando+Programção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&color=FF0000&lines=Carregando+Programção!;" />
 </h1>
 
   <div align="center">
