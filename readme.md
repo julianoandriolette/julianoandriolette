@@ -1,7 +1,7 @@
 <div align="center">
 <p>Prazer e Bem Vindo (a)👋</p>
 
-Me chamo Juliano Andriolette, tenho 43 anos e sou natural de Uberlândia. Atualmente curso Sistemas de Informação na Faculdade UNIESSA. Sempre gostei de tecnologia. Hoje me encontrei no mundo da programação e desenvolvimento de web site, buscando sempre melhorar meus conhecimentos para me tornar um profissional na área.</div>
+Atualmente curso Sistemas de Informação (SI), na Faculdade UNIESSA. Sempre gostei de tecnologia. Hoje me encontrei no mundo da programação e desenvolvimento de web site como (Front End), buscando sempre melhorar meus conhecimentos para me tornar um profissional na área.</div>
 <!--
 **julianoandriolette/julianoandriolette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
