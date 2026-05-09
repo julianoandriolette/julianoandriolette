@@ -44,18 +44,22 @@ Atualmente curso Sistemas de Informação (SI), na Faculdade UNIESSA. Sempre gos
 </h1>
 
   <div align="center">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="W3Schools.com" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="W3Schools.com" width="50" height="50">
-<img src="https://thumbs.dreamstime.com/b/javascript-icon-logo-javascript-often-abbreviated-as-js-programming-language-conforms-to-ecmascript-specification-204759326.jpg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="W3Schools.com" width="50" height="50">
-<img src="https://images.icon-icons.com/2108/PNG/512/php_icon_130857.png" alt="W3Schools.com" width="50" height="50">
-<img src="https://thumbs.dreamstime.com/b/logotipo-python-em-linguagem-de-computador-com-duas-cobras-intersetadas-imagem-descreve-o-da-p%C3%ADton-estilizadas-que-se-cruzam-170750660.jpg" alt="W3Schools.com" width="50" height="50">
-<img src="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="50" height="50">
-<img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" width="50" height="50">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAx6camOf_G96Zcs2Zj34Yjmy0ysPd-p0oJQ&s" width="50" height="50">
-<img src="https://images.icon-icons.com/1195/PNG/512/1490889710-windows_82514.png" width="50" height="50">
-
-  </div>
+  <!-- Front-end -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50">
+  
+  <!-- Back-end & Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+  
+  <!-- Ferramentas e Infraestrutura -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50">
+</div>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg2ZGhkbm4yaGQ0NWIzanozdnlwbWJoeTB2MWVnZnM2aXJnNmhoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="200" height="200">
