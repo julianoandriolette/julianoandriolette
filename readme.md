@@ -71,8 +71,8 @@ Atualmente curso Sistemas de Informação (SI), na Faculdade UNIESSA. Sempre gos
 
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianoandriolette&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&order=1&custom_title=Movimenta%C3%A7%C3%A3o" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julianoandriolette&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=julianoandriolette&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&order=1&custom_title=Movimenta%C3%A7%C3%A3o" height="150" alt=""  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julianoandriolette&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt=""  />
   <img src="https://streak-stats.demolab.com?user=julianoandriolette&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=julianoandriolette&theme=monokai&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoandriolette&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=Juliano%20(Estat%C3%ADsticas)" height="300" alt="activity-graph graph"  />
