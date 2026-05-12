@@ -26,7 +26,6 @@ Atualmente curso Sistemas de Informação (SI), na Faculdade UNIESSA. Sempre gos
   <a href="https://julianoandriolette.github.io/portfolio-juliano/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
 <a href="https://pipeline-dados-uberlandia-juliano.streamlit.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -80,10 +79,8 @@ Atualmente curso Sistemas de Informação (SI), na Faculdade UNIESSA. Sempre gos
 
 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlnd3VlbnM1Y3J4b2QwdTVvMHYzdWVraTQ5cnFuMThvNGR0d2puYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BjscQHSz4tzVYFkDoy/giphy.gif" width="50" height="50">
 
 
-[![Linkedin](powered-by-vercel.svg)]([www.linkedin.com/in/👨🏼‍🎓juliano-andriolette👨🏼‍🎓-3719a2386](https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93juliano-andriolette%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93-3719a2386/)
 
 
 
