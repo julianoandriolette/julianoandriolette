@@ -27,7 +27,7 @@ Atualmente curso Sistemas de Informação (SI), na Faculdade UNIESSA. Sempre gos
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 <a href="https://pipeline-dados-uberlandia-juliano.streamlit.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://files.tecnoblog.net/wp-content/uploads/2026/03/github-edited.webp" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
